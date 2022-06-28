@@ -1,32 +1,19 @@
-# Интернет-магазин одежды
+# Интернет-магазин украшений/одежды.
+### Адаптивная верстка по макету из Figma.
 
-В проекте реализовано:
+![Felis](https://user-images.githubusercontent.com/91260590/174853458-7dd28235-accb-4351-8802-7ca0264bc197.gif)
 
-- адаптивная валидная верстка по макету из Figma;
-- загрузка и отображение данных из JSON;
-- фильтрация каталога с добавлением в корзину из каталога;
-- поиск товаров по сайту;
-- выбор размера в карточке товара, добавление и удаление товаров из корзины;
-- форма оформления заказа с примененеем промокода и перенаправлением на оплату.
+#### Используемые технологии:
++ JavaScript
++ Webpack
++ SCSS
++ HTML5/CSS3
 
-![Felis](https://user-images.githubusercontent.com/91153046/174981605-dbad92a9-339b-44fb-8868-d136746e05f5.gif)
-
-### Демо
-
-https://mrglk.github.io/projectShop/index.html
-
-### Используемые технологии:
-
-* HTML5/СSS3
-* SAAS
-* JavaScript
-* Webpack
-
-### Запуск проекта
-
+Запуск проекта:
 ```
-git clone https://github.com/mrglk/projectShop.git
-cd projectShop
-npm install
+git clone https://github.com/8Alex/projectShop.git  
+cd projectShop  
+npm install  
 npm start
 ```
+
