@@ -3,6 +3,8 @@
 
 ![Felis](https://user-images.githubusercontent.com/91260590/174853458-7dd28235-accb-4351-8802-7ca0264bc197.gif)
 
+GitHub Pages: [Shop](https://mrglk.github.io/projectShop/)
+
 #### Используемые технологии:
 + JavaScript
 + Webpack
